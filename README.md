@@ -1,4 +1,4 @@
-# create_sitemap_in_laravel-8
+# create sitemap in laravel 8
 To create a sitemap in Laravel 8, you can follow these steps:
 
 First, you need to install the spatie/laravel-sitemap package. You can do this by running the following command in your terminal:
